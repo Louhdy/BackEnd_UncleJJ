@@ -1,2 +1,2 @@
 # BackEnd_UncleJJ
-Backend for the uncleJJ project
+Backend for the "UncleJJ" project
